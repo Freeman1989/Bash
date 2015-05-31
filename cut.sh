@@ -1,3 +1,5 @@
+#!/bin/sh
+
 echo "cut -f 2 student.txt:"
 cut -f 2 student.txt
 
