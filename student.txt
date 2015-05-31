@@ -1,0 +1,4 @@
+ID	Name	gender	Mark
+1	furong	F	    85
+2	fengjie	F	    60
+3	cang	F	    70
