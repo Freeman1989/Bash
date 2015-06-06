@@ -1,9 +1,12 @@
 #!/bin/sh
 #从1加到100
 
-s=0;
-for ((i = 0; i <= 100; i=i + 1))
+i=1
+s=0
+
+while [ $i -le 100 ]
 do
     s=$(($s + $i))
+    i=$(($i + 1))
 done
 echo $s
